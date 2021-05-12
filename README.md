@@ -16,8 +16,8 @@
 ---
 # 미니프로젝트
 
-1. JSP 게시판
+## 1. JSP 게시판
 [JSP를 활용한 게시판 구현](https://github.com/chlgudtjr/mvc_board_jsp)
 
-2. 스프링 게시판
+## 2. 스프링 게시판
 [스프링을 활용한 RESTFUL게시판 구현](https://github.com/chlgudtjr/Spring_mvc_board)
